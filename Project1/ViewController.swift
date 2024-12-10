@@ -5,8 +5,7 @@
 //  Created by Илья Колесников on 06.12.2024.
 //
 
-//Dev
-
+//main
 import UIKit
 
 class ViewController: UITableViewController {
